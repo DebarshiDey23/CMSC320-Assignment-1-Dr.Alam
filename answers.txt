@@ -5,3 +5,11 @@ Answer: Data science could be applied to machine learning and algorithms. Since 
 Q1: Why might be consider using git?
 
 Answer: Git helps with version controlling and working with others on the same project
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between rebasing and merging is that rebasing creates a new set of commits applied on top of the target branch, while merging creates a new merge commit that combines the changes from both branches
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Utilizing data science skills, working well with git, and making projects that will help me in the future
